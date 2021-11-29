@@ -7,7 +7,7 @@ DataSHIELD is a platform for federated analysis of private data. This package ca
 
 The complete bookdown is available here:
 
-https://neelsoumya.github.io/dsSurvival_bookdown
+https://neelsoumya.github.io/dsSurvivalbookdown
 
 
 DataSHIELD has a client-server architecture and this package has a client side and server side component.
@@ -26,7 +26,7 @@ DataSHIELD has a client-server architecture and this package has a client side a
 
 The complete bookdown, tutorial, vignette with executable code and synthetic data is available here:
 
-https://neelsoumya.github.io/dsSurvival_bookdown
+https://neelsoumya.github.io/dsSurvivalbookdown
 
 
 
@@ -58,7 +58,7 @@ install.packages('opalr')
 
 Follow the tutorial in bookdown format with executable code:
 
-https://neelsoumya.github.io/dsSurvival_bookdown/
+https://neelsoumya.github.io/dsSurvivalbookdown/
 
 
 
@@ -119,7 +119,7 @@ https://neelsoumya.github.io/dsSurvival_bookdown/
 
 See the bookdown below for a complete tutorial:
 
-https://neelsoumya.github.io/dsSurvival_bookdown
+https://neelsoumya.github.io/dsSurvivalbookdown
 
 
 
