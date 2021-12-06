@@ -140,6 +140,7 @@ The bookdown can be compiled by typing the following commands:
 
 Soumya Banerjee and Tom R. P. Bishop
 
+sb2333@cam.ac.uk
 
 
 ## Citation
