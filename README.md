@@ -44,6 +44,7 @@ Install the following packages:
 
 
 ```{r eval=FALSE}
+
 install.packages('devtools')
 library(devtools)
 devtools::install_github('neelsoumya/dsSurvivalClient')
@@ -55,6 +56,7 @@ install.packages('metafor')
 install.packages('DSOpal')
 install.packages('DSI')
 install.packages('opalr')
+
 ```
 
 
@@ -72,7 +74,7 @@ https://neelsoumya.github.io/dsSurvivalbookdown/
 
 * In R, install the following packages
 
-```
+```{r eval=FALSE}
   
   install.packages('devtools')
 
@@ -129,7 +131,7 @@ A minimal example of a book based on R Markdown and **bookdown** (https://github
 
 The bookdown can be compiled by typing the following commands:
 
-  ```
+  ```{r eval=FALSE}
   
   library(bookdown)
 
@@ -140,7 +142,7 @@ The bookdown can be compiled by typing the following commands:
 
 ## Contact
 
-Soumya Banerjee and Tom R. P. Bishop
+Soumya Banerjee and Tom R.P. Bishop
 
 sb2333@cam.ac.uk
 
