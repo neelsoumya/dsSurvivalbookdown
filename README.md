@@ -95,15 +95,13 @@ https://neelsoumya.github.io/dsSurvivalbookdown/
 
   ```r 
 
-  R -no-save < installer_R.R
+  R --no-save < installer_R.R
   
   ```
   
   or
   
-  run the following script in R
-  
-  installer_R.R
+  run the following script in R `installer_R.R`
   
  
   
