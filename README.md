@@ -127,7 +127,7 @@ https://neelsoumya.github.io/dsSurvivalbookdown
 
 
 
-A minimal example of a book based on R Markdown and **bookdown** (https://github.com/rstudio/bookdown). Please see the page "Get Started" at https://bookdown.org/home/about/ for how to compile this example.
+A minimal example of a book based on R Markdown and **bookdown** (https://github.com/rstudio/bookdown). 
 
 The bookdown can be compiled by typing the following commands:
 
