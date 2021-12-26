@@ -111,8 +111,10 @@ https://neelsoumya.github.io/dsSurvivalbookdown/
  Install the virtual machines as described below:
 
     https://data2knowledge.atlassian.net/wiki/spaces/DSDEV/pages/931069953/Installation+Training+Hub-+DataSHIELD+v6
+    
 
     https://data2knowledge.atlassian.net/wiki/spaces/DSDEV/pages/1657634881/Testing+100+VM
+
 
     https://data2knowledge.atlassian.net/wiki/spaces/DSDEV/pages/1657634898/Tutorial+6.1.0+100+VM
 
