@@ -264,30 +264,7 @@ summary(coxph_model_strata)
 
 ```
 
-## Summary of survival objects
 
-We can also summarize a server-side object of type *survival::Surv()*
-using a call to *ds.coxphSummary()*. This will provide a non-disclosive
-summary of the server-side object. The server-side survival object can be created using ds.coxphSLMAassign().
-An example call is shown below:
-
-
-```{r eval=FALSE}
-dsSurvivalClient::ds.coxphSummary(x = 'coxph_serverside')
-```
-
-
-
-```{r, include=FALSE}
-#################################
-# summary of coxphSLMA
-#################################
-# TODO:
-# dsBaseClient::ds.summary(x = 'surv_object')
-# dsBaseClient::ds.class(x = 'surv_object')
-# dsBaseClient::ds.mean(x='surv_object')
-
-```
 
 
 ## Diagnostics for Cox proportional hazards models
@@ -327,6 +304,30 @@ dsSurvivalClient::ds.coxphSummary(x = 'coxph_serverside')
 
 ```
 
+## Summary of survival objects
+
+We can also summarize a server-side object of type *survival::Surv()*
+using a call to *ds.coxphSummary()*. This will provide a non-disclosive
+summary of the server-side object. The server-side survival object can be created using ds.coxphSLMAassign().
+An example call is shown below:
+
+
+```{r eval=FALSE}
+dsSurvivalClient::ds.coxphSummary(x = 'coxph_serverside')
+```
+
+
+
+```{r, include=FALSE}
+#################################
+# summary of coxphSLMA
+#################################
+# TODO:
+# dsBaseClient::ds.summary(x = 'surv_object')
+# dsBaseClient::ds.class(x = 'surv_object')
+# dsBaseClient::ds.mean(x='surv_object')
+
+```
 
 
 ## Meta-analyze hazard ratios
