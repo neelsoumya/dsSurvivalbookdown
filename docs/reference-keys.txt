@@ -1,4 +1,5 @@
 fig:unnamed-chunk-21
+fig:unnamed-chunk-23
 prerequisites
 intro
 survival-models
@@ -8,4 +9,5 @@ create-survival-object-and-call-ds.coxph.slma
 diagnostics-for-cox-proportional-hazards-models
 summary-of-survival-objects
 meta-analyze-hazard-ratios
+plotting-of-privacy-preserving-survival-curves
 summary
